@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./crius-banner.png" width="100%">
+
+</div>
+<div align="center">
+
 # 👋 Hi, I'm Mahill Ram E K
 
 ### Electronics & Communication Engineering Student
